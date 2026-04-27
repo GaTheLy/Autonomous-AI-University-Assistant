@@ -1,4 +1,4 @@
-# SinoStudy Navigator: Autonomous AI University Assistant
+# Autonomous AI University Assistant
 
 An Agentic AI workflow for bypassing the chaos of foreign university websites. Built with Python, Playwright Async API, and Google Gemini 2.0 Flash, this tool acts as an autonomous, bilingual higher-education consultant.
 
