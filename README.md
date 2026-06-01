@@ -1,12 +1,12 @@
 # Autonomous AI University Assistant
 
-An Agentic AI workflow for bypassing the chaos of foreign university websites. Built with Python, Playwright Async API, and Google Gemini 2.0 Flash, this tool acts as an autonomous, bilingual higher-education consultant.
+An Agentic AI workflow for bypassing the chaos of foreign university websites. Built with Python, Playwright Async API, and Google Gemini Flash, this tool acts as an autonomous, bilingual higher-education consultant.
 
 ## 🚀 Overview
 
 Applying to universities in China can be difficult for international students: critical information (like scholarships, application deadlines, and English-taught programs) is often buried across multiple subpages, obscured by navigation frames, or poorly translated.
 
-**SinoStudy Navigator** solves this by autonomously crawling a university's domain, locating the most valuable admission and scholarship pages, extracting the raw HTML, and utilizing Gemini to synthesize a highly personalized briefing document based on the applicant's specific profile.
+This project solves this by autonomously crawling a university's domain, locating the most valuable admission and scholarship pages, extracting the raw HTML, and utilizing Gemini to synthesize a highly personalized briefing document based on the applicant's specific profile.
 
 ## ✨ Key Features
 
